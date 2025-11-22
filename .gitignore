@@ -1,0 +1,15 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
